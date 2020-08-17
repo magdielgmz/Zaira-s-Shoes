@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1019px" height="574px" viewBox="0 0 1019 574" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Rectangle 2</title>
+    <defs>
+        <radialGradient cx="50%" cy="42.9625148%" fx="50%" fy="42.9625148%" r="111.264783%" gradientTransform="translate(0.500000,0.429625),scale(0.472709,1.000000),rotate(91.348002),translate(-0.500000,-0.429625)" id="radialGradient-1">
+            <stop stop-color="#EDEDED" stop-opacity="0.575502622" offset="0%"></stop>
+            <stop stop-color="#F7B800" stop-opacity="0.575502622" offset="100%"></stop>
+            <stop stop-color="#F8F7F5" stop-opacity="0.575502622" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(0.000000, -75.000000)" fill="url(#radialGradient-1)">
+            <g id="BackgroundHead" transform="translate(-166.000000, 0.000000)">
+                <path d="M154.55545,174 C306.435983,56.5933446 651.584167,43.7910405 1190,135.593088 L1190,612.078225 C1277.57221,553.488084 1115.64143,551.789956 704.207658,606.983841 C292.773888,662.177726 105.779175,662.177726 143.22352,606.983841 C-50.8532197,474.192975 -47.0759096,329.865028 154.55545,174 Z" id="Rectangle-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

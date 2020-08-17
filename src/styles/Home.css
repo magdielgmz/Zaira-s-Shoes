@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:wght@700&display=swap');
+
+
+h1{
+    color: #280927;
+    font-family: 'Amiri', serif;
+    position: absolute;
+    top: 190px;
+    left: 10%;
+    font-size: 100px;
+    width: 280px;
+    line-height: 70px;
+}
+
+.imgHead{
+    position: absolute;
+    right: 5%;
+    top: 140px;
+}
+
+.section1{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url(../assets/BackgroundHead2.svg);
+    background-position: absolute ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #f7b50059;
+}
+
+.section2{
+    height: 100vh;
+    background-color: #ececec5e;
+
+}
+
+.text{
+    font-size: 70px;
+    display: block;
+    color: black;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    top: 25%;
+}
+
+.card1{
+    position: relative;
+    display: flex;
+    top: 20%;
+    left: 5%;
+}
+
